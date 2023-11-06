@@ -3,11 +3,7 @@
 - 🌱 I’m currently learning OOP in python ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<div align="center">
-  <h1>Your Project Name</h1>
-  <p>Short project description goes here.</p>
-  <img src="preview.png" alt="Preview Image">
-</div>
+
 
 <!---
 Programmer0048/Programmer0048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
