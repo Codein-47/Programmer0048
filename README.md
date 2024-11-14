@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on.
 - 📫 How to reach me.
 - ✉ subhan323081@gmail.com
-- Linkdin ----> https://www.linkedin.com/in/subhan-ahmed-b65477265/
+- Linkedin ----> https://www.linkedin.com/in/subhan-ahmed-b65477265/
 
 
 <!---
