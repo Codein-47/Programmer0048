@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Programmer0048
-- 👀 I’m interested in Programmmimg in Python and Flutter ...
-- 🌱 I’m currently learning OOP in python ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Subhan Ahmed
+- 👀 I’m interested in Programmmimg.
+- 💪Building Skills in Python and Flutter.
+- 💞️ I’m looking to collaborate on.
+- 📫 How to reach me.
+- ✉ subhan323081@gmail.com
+- Linkdin ----> https://www.linkedin.com/in/subhan-ahmed-b65477265/
 
 
 <!---
